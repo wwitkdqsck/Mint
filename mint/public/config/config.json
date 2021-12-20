@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8213674Dd9ec9ea709bB9DF02BF0D7E34fFFf849",
+  "SCAN_LINK": "https://explorer.gochain.io/token/0x8213674Dd9ec9ea709bB9DF02BF0D7E34fFFf849/",
+  "NETWORK": {
+    "NAME": "GoChain",
+    "SYMBOL": "GO",
+    "ID": 60
+  },
+  "NFT_NAME": "GoBears NFTs",
+  "SYMBOL": "GBC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 150000,
+  "MARKETPLACE": "Zeromint",
+  "MARKETPLACE_LINK": "https://zeromint.com/collections/KWBKjP7UlmZeoZAX-WASv",
+  "SHOW_BACKGROUND": true
+}
