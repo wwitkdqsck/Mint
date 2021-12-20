@@ -2,7 +2,10 @@
 
 ![](https://github.com/GoBears/nft-minting-app/blob/main/logo-blob.png)
 
-All the code in these repos was created and explained by HashLips on his YouTube channel.
+All the code in these repos was created and explained by HashLips & Ali Solanki on their respective YouTube channels.
+
+Hashlips ->https://www.youtube.com/c/HashLipsNFT
+Ali Solanki - >https://www.youtube.com/channel/UCgzz4Kd1YpzxJOkrhf5U_7A
 
 Please visit GoBears NFTs Links Below.
 
